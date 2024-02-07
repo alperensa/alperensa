@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">a junior software developer from Türkiye 🇹🇷</h3>
+<h1 align="center">hi 👋, I'm alperen</h1>
+<h3 align="center">a junior software developer from Türkiye</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alperensarierikli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alperensarierikli/" height="30" width="40" /></a>
 </p>
